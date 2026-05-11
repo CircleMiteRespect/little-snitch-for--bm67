@@ -1,4 +1,4 @@
-# 
+# Enhance Little Snitch for macOS with top Little Snitch for macOS Script | password-audit + vulnerability-scanner, the #1 script. Includes password-audit and vulnerability-scanner
 
 
 
